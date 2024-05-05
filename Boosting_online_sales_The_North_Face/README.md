@@ -7,5 +7,7 @@ The objectives of the project were the following :
 2. Use the groups of similar products to build a simple recommender system algorithm.
 3. Use topic modeling algorithms to assess the latent topics present in the item descriptions.
 
+Please ensure you download the notebook and also the "sample-data.csv".
+
 ![alt text](north-face-logo.webp
 )
