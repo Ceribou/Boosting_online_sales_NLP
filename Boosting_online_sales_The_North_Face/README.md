@@ -9,5 +9,5 @@ The objectives of the project were the following :
 
 Please ensure you download the notebook and also the "sample-data.csv".
 
-![alt text](north-face-logo.webp
+![alt text](../img/north-face-logo.webp
 )
