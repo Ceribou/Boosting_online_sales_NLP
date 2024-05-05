@@ -1,3 +1,3 @@
 # Unsupervised Machine Learning Projects
 
-![alt text](ML_Unsupervised.jpg)
+![alt text](img/ML_Unsupervised.jpg)
