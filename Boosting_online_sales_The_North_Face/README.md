@@ -1,5 +1,5 @@
-# Boosting Online Sales - The North Face
-
+<h1 align="center"> Boosting Online Sales - The North Face </h1>
+ 
 This project has been realized to validate the Jedha Bootcamp certification (Machine Learning module).
 
 The objectives of the project were the following :
